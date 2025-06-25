@@ -9,10 +9,16 @@ This project analyzes a fictional dataset of potential bike buyers. Using Excel,
 - **Pivot Tables:** Created summaries of income, bike purchases, and demographic data.
 - **Dashboard:** Built an interactive Excel dashboard with slicers and charts (best viewed in Excel).
 
+## 📊 Dashboard Preview
+
+![Bike Sales Dashboard](excel_dashboard_preview.png)
+
+
 ## 📁 File Structure
 
 - `Excel Project Dataset 1.xlsx`: Contains raw data, cleaned data, pivot tables, and dashboard.
 - `README.md`: Project documentation.
+- `excel dahsboard preview.png`: Dashboard Preview
 
 ## 🔍 Insights
 
